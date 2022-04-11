@@ -1,5 +1,7 @@
-function count () {
-  console.log("26")
+function count (param) {
+  console.log(26 + param
+  )
 }
 
-count()
+
+count(20)
