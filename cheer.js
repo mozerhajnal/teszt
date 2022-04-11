@@ -1,3 +1,1 @@
-const cheer = name => console.log(name);
-
-cheer("Group4");
+const cheers = param => console.log(`Cheer for the ${parameter}`);
