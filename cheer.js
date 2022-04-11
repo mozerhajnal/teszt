@@ -1,7 +1,8 @@
 
-const cheers = param => console.log(`Cheer for the ${parameter}`);
 
-const cheer = name => console.log(name);
+function cheers (parameter) {
+  console.log(`Cheer for the ${parameter}`)
+}
 
-cheer("javascript");
+cheers("javascript")
 
